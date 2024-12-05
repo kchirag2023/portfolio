@@ -207,7 +207,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "visual studeio code",
+        name: "visual studio code",
         color: "pink-text-gradient",
       },
     ],
@@ -228,7 +228,7 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "stremlit",
+        name: "streamlit",
         color: "pink-text-gradient",
       },
     ],
